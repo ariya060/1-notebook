@@ -37,7 +37,7 @@ Some of the commonly used libraries used by Data Scientists include:
 ### Below are a few examples of evaluating arithmetic expressions in Python.
 
 x=3*4+5
-print(x)
+print(x) 
 
 minutes = 200
 hours = minutes // 60
